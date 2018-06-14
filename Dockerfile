@@ -4,5 +4,3 @@ LABEL email="bruno.sbrunoro@gmail.com"
 
 RUN apk add --update git
 RUN npm install -g @angular/cli
-
-RUN git
