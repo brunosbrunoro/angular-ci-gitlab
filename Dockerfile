@@ -1,4 +1,4 @@
-FROM node:10-stretch
+FROM node:10-slim
 LABEL authors="Bruno Scrok Brunoro"
 LABEL email="bruno.sbrunoro@gmail.com"
 
